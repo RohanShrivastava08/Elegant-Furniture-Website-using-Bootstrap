@@ -1,6 +1,7 @@
 # Elegant-Furniture-Website-using-Bootstrap
 
 ## Deploy Link: https://elegantfurniturewebsite.netlify.app/
+<br> <br>
 
 ![HomePage](https://github.com/RohanShrivastava08/Elegant-Furniture-Website-using-Bootstrap/assets/94133270/9e2300da-190f-442f-9efe-fe2526595bd4)
 
